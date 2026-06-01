@@ -1,3 +1,4 @@
+Project URL:https://roadmap.sh/projects/querying-sql-python
 # Querying with SQL & Python (Chinook Digital Music Store Analysis)
 
 ## 📌 Project Overview
@@ -15,8 +16,3 @@ The operational workflow answered three key operational queries using targeted S
 2. **Global Revenue Contributions:** Categorized and aggregated financial metrics across global billing destinations.
 3. **Top Performing Sales Representative:** Multi-table customer and employee relational metrics aggregated by gross total transactional volume.
 
-*Note: DataFrames are outputted using clean, human-readable 1-based indexing.*
-
-## 💾 Project Artifacts Produced
-* `Untitled.ipynb`: The complete execution notebook containing database queries and code logic.
-* `Chinook_Top_Country_Revenue_Summary.csv`: Aggregated global sales distribution dataset.
